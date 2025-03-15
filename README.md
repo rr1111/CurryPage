@@ -1,2 +1,3 @@
 # CurryPage
- website for an indian evil curry corp
+website for an evil indian curry corp
+currently employing 200 indians in a sweatshop
